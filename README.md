@@ -53,7 +53,7 @@ El pico de demanda fue en 2022.
 Desde 2023 se observa desaceleración.  
 En 2024–2025 se consolida una tendencia descendente.  
 La reducción de oferta impacta directamente en la demanda.  
-Existe correlación entre ajuste tarifario y caída de pasajeros.
+Se observa correlación entre aumento tarifario y caída de demanda, sugiriendo sensibilidad al precio.
 ### 👨‍💻 Autor
 Matías Alejandro Taborda  
 Proyecto personal de análisis de datos – 2026
